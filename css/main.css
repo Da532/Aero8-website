@@ -1,0 +1,61 @@
+.header {
+    
+        width: 100%;
+    
+        text-align: center;
+    
+        color: #fff;
+    
+        background-color: #fff;
+    
+    }
+
+div#container {
+
+    max-width: 75em;
+
+    margin: 0 auto;
+
+    color: #000;
+
+}
+
+
+
+body {
+
+    height: 100%;
+
+    width: 100%;
+
+    color: #000;
+
+    text-align: center;
+
+}
+
+h1 {
+
+    font-size: 2em;
+
+    cursor: default;
+
+}
+
+
+h2 {
+
+    font-weight: thin;
+
+    font-size: 3em;
+
+}
+
+.footer {
+
+    color:#000;
+
+    background-color: rgb(233, 233, 233);
+
+    padding: 2em
+}
