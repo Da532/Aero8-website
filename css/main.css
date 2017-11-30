@@ -52,10 +52,11 @@ h2 {
 }
 
 .footer {
+    top:50px;
 
     color:#000;
 
-    background-color: rgb(233, 233, 233);
+    background-color: rgb(235, 235, 235);
 
     padding: 2em
 }
